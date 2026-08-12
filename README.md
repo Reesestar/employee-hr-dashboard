@@ -4,7 +4,7 @@ An interactive HR analytics dashboard built in Tableau, giving a quick overview 
 
 🔗 **https://public.tableau.com/views/EmployeeSpreadsheet_17865761667930/EmployeeSpreadsheet?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link(#)** 
 
-![Dashboard screenshot](images/Employee-Spreadsheetpng)
+![Dashboard screenshot]([images/Employee-Spreadsheetpng](https://github.com/Reesestar/employee-hr-dashboard/blob/main/Employee%20Spreadsheet.png))
 
 
 ## What's in the dashboard
