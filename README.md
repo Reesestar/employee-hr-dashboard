@@ -2,10 +2,10 @@
 
 An interactive HR analytics dashboard built in Tableau, giving a quick overview of headcount, department distribution, compliance training status, and vacation usage across the company.
 
-🔗 **[https://public.tableau.com/views/EmployeeSpreadsheet_17865761667930/EmployeeSpreadsheet?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link(#)]** 
+🔗 **https://public.tableau.com/views/EmployeeSpreadsheet_17865761667930/EmployeeSpreadsheet?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link(#)** 
 
-![Dashboard screenshot](Users/esther/Desktop/employeedashboard1.png)
-![Dashboard screenshot](Users/esther/Desktop/employeedashboard2.png)
+![Dashboard screenshot](images/Employee-Spreadsheetpng)
+
 
 ## What's in the dashboard
 
